@@ -1,6 +1,6 @@
 {
   "name": "structured-data-types",
-  "description": "📦️",
+  "description": "📦️ Ultra-lightweight, strict TypeScript definitions for Google Rich Results and Schema.org structured data. Built for performance-focused web development.",
   "author": "Luis Monsalve",
   "version": "0.0.0",
   "homepage": "https://github.com/TheElegantCoding/structured-data-types#readme",
