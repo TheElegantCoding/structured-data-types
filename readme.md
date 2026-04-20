@@ -1,32 +1,32 @@
-<img src="./.github/asset/illustration/wave_header.svg" width="100%" align="center"/>
+<img src="./.github/asset/illustration/wave_header.svg" width="100%" />
 
 <h1 id="top" align="center">
-  <img src="./.github/asset/icon/typescript.svg" alt="icon" width="32px" align="center" />
+  <img src="./.github/asset/icon/typescript.svg" alt="icon" width="28px" align="center" />
   Structured data types
 </h1>
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
 <pre align="center">
   <a href="#installation">📦 SETUP</a> • <a href="#usage">⚡ USAGE</a>
 </pre>
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
-<img src="./.github/asset/illustration/structured_data_cover.svg" width="100%" align="center" />
+<img src="./.github/asset/illustration/structured_data_cover.svg" width="100%" />
 
 <br />
 
 <div align="center">
-  <img src="./.github/asset/illustration/bun_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/github_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/typescript_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/node_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/npm_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/git_badget.svg" height="34px" />
+  <img src="./.github/asset/illustration/bun_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/github_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/typescript_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/node_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/npm_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/git_badge.svg" height="34px" />
 </div>
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
 <h2 id="about">
   <img src="./.github/asset/icon/information.svg" width="24px" align="center"/>
@@ -43,7 +43,7 @@
 
 <br />
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
 <h2 id="table-of-content">
   <img src="./.github/asset/icon/book.svg" width="20px" align="center"/>
@@ -55,7 +55,7 @@
 - [<img src="./.github/asset/icon/package.svg" width="16px" align="center" /> Installation](#installation)
 - [<img src="./.github/asset/icon/rocket.svg" width="16px" align="center" /> Usage](#usage)
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
 <h2 id="requirements">
   <img src="./.github/asset/icon/thunder.svg" width="20px" align="center"/>
@@ -104,7 +104,6 @@ yarn i -D open-graph-types
   src="./.github/asset/illustration/divider.svg"
   alt="divider"
   width="100%"
-  align="center"
 />
 
 <h2 id="usage">
@@ -185,7 +184,6 @@ Here is a complete list of all the available types:
   src="./.github/asset/illustration/divider.svg" 
   alt="divider" 
   width="100%" 
-  align="center"
 />
 
 <pre align="center">
@@ -196,7 +194,6 @@ Here is a complete list of all the available types:
   src="./.github/asset/illustration/divider.svg" 
   alt="divider" 
   width="100%" 
-  align="center"
 />
 
 <pre align="center">
@@ -207,4 +204,4 @@ Here is a complete list of all the available types:
   <img src="./.github/asset/illustration/astralys_logo.svg" width="120px" align="center" />
 </div>
 
-<img src="./.github/asset/illustration/wave_footer.svg" width="100%" align="center" />
+<img src="./.github/asset/illustration/wave_footer.svg" width="100%" />
